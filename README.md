@@ -1,0 +1,2 @@
+# AmogusRP
+This game is being created for multiplayer, so I hope at least someone will play it :/ This is a 2D game with a top view where players will have to survive together or separately, trading or fighting. I will try to make a huge scope for customization so that the technologies of different teams differ and there is always room for growth. Also in this game there is a huge emphasis on balance, i.e. nothing is taken out of thin air and disappears without a trace (the law of conservation of energy).
